@@ -1,32 +1,4 @@
-/******************************************************************************
-;@
-;@ Student Name 1: Faraz Seyfi
-;@ Student 1 #: 301543610
-;@ Student 1 userid (faraz_seyfi@sfu.ca): fsa46 (fsa46@sfu.ca)
-;@
-;@ Student Name 2: Ali-Aryo Otufat-Shamsi
-;@ Student 2 #: 301553709
-;@ Student 2 userid (ali_aryo@sfu.ca): aoa25 (aoa@sfu.ca)
-;@
-;@ Below, edit to list any people who helped you with the code in this file,
-;@      or put â€˜noneâ€™ if nobody helped (the two of) you.
-;@
-;@ Helpers:evan lien
-;@
-;@ Also, reference resources beyond the course textbook and the course pages on Canvas
-;@ that you used in making your submission.
-;@
-;@ Resources:  ___________
-;@
-;@% Instructions:
-;@ * Put your name(s), student number(s), userid(s) in the above section.
-;@ * Edit the "Helpers" line and "Resources" line.
-;@ * Your group name should be "A2_<userid1>_<userid2>" (eg. A2_stu1_stu2)
-;@ * Form groups as described at:  https://courses.cs.sfu.ca/docs/students
-;@ * Submit your file to courses.cs.sfu.ca
-;@
-;@ Name        : assign2.cpp
-******************************************************************************/
+
 // fibonacci program using recursion
 
 #include <iostream>
